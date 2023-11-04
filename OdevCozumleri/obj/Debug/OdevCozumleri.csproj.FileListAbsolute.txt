@@ -1,0 +1,7 @@
+C:\Users\Alp\source\repos\OdevCozumleri\OdevCozumleri\bin\Debug\OdevCozumleri.exe.config
+C:\Users\Alp\source\repos\OdevCozumleri\OdevCozumleri\bin\Debug\OdevCozumleri.exe
+C:\Users\Alp\source\repos\OdevCozumleri\OdevCozumleri\bin\Debug\OdevCozumleri.pdb
+C:\Users\Alp\source\repos\OdevCozumleri\OdevCozumleri\obj\Debug\OdevCozumleri.csproj.AssemblyReference.cache
+C:\Users\Alp\source\repos\OdevCozumleri\OdevCozumleri\obj\Debug\OdevCozumleri.csproj.CoreCompileInputs.cache
+C:\Users\Alp\source\repos\OdevCozumleri\OdevCozumleri\obj\Debug\OdevCozumleri.exe
+C:\Users\Alp\source\repos\OdevCozumleri\OdevCozumleri\obj\Debug\OdevCozumleri.pdb
