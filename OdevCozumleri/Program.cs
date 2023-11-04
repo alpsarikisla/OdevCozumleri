@@ -413,6 +413,8 @@ namespace OdevCozumleri
 
             Console.WriteLine("Sonuç = " + sonuc);
             #endregion
+
+            //Ödevleri Yapmayı Unutmayın
         }
     }
 }
